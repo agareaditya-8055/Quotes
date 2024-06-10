@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html {
+  width: 100vw;
+  min-height: 100vh;
+  box-sizing: border-box;
+  background-color: red;
+}
